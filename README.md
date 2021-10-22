@@ -1,1 +1,1 @@
-# my-module
+# my_module
